@@ -7,3 +7,4 @@ ds.commit();
 
 ent = ds.DataClass1.find('ID = 1');
 var stamp2 = ent.getStamp();
+
